@@ -1,2 +1,1 @@
-# IPYNBRENDERER
-just the file
+# IPYNB renderer python package
